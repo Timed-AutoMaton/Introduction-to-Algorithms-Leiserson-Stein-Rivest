@@ -66,7 +66,7 @@ int main()
     Solution sol;
     int n, target;
 
-    cout << "Enter the number of elements in the array";
+    cout << "Enter the number of elements in the array: ";
     cin >> n;
 
     // create vector of size n
