@@ -63,7 +63,6 @@ public:
 
 int main()
 {
-    return 0;
     Solution sol;
     int n, target;
 
