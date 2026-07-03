@@ -96,4 +96,10 @@ int main()
         cout << nums[i] << " ";
     }
     cout << endl;
+
+    cout << "Target: " << target << endl;
+    cout << "First occurrence at index: " << result[0] << endl;
+    cout << "Last occurrence at index: " << result[1] << endl;
+    cout << "Range: [" << result[0] << ", " << result[1] << "]" << endl;
+    cout << "=======================================================" << endl;
 }
