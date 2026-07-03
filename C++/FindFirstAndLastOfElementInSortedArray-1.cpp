@@ -102,4 +102,6 @@ int main()
     cout << "Last occurrence at index: " << result[1] << endl;
     cout << "Range: [" << result[0] << ", " << result[1] << "]" << endl;
     cout << "=======================================================" << endl;
+
+    return 0;
 }
