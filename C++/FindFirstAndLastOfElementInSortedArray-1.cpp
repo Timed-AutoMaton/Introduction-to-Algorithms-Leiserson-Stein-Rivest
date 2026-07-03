@@ -89,4 +89,11 @@ int main()
     vector<int> result = sol.searchRange(nums, target);
 
     // Display results
+    cout << "\n=============================" << endl;
+    cout << "Array: ";
+    for (int i = 0; i < n; i++)
+    {
+        cout << nums[i] << " ";
+    }
+    cout << endl;
 }
