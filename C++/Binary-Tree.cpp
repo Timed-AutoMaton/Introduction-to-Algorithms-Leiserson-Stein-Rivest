@@ -35,7 +35,6 @@ int main()
         // left node
         if (first != -1)
         {
-
             temp->left = new Node(first);
             q.push(temp->left);
         }
